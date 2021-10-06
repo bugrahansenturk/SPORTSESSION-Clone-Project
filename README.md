@@ -3,15 +3,12 @@
 ## Versions
 
 > | Grails Version: 4.0.12
-> 
 | JVM Version: 15.0.1
-
 | distributionUrl=https\://services.gradle.org/distributions/gradle-6.3-bin.zip 
 
 **Plugins:**
 
-| com.github.agorapulse.grails-aws-sdk:aws-sdk-s3:2.4.14
-> 
+>| com.github.agorapulse.grails-aws-sdk:aws-sdk-s3:2.4.14 
 
 ### Install Plugins:
 
