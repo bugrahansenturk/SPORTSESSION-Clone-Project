@@ -2,8 +2,8 @@
 grails:
     plugin:
             awssdk:
-                accessKey: AKIAR5TABWRJBG4N2PGD # Global default setting 
-                secretKey: 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 # Global default setting
+                accessKey: 
+                secretKey: 
                 region: eu-central-1   # Global default setting
                 s3:
                     bucket: bugrahandeveloperproject
