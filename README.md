@@ -1,4 +1,4 @@
-# MySomertonProject-BugrahanSenturk
+# SPORTSESSION.COM Clone Project - BugrahanSenturk
 
 ## Versions
 
